@@ -1,0 +1,63 @@
+BookID,Name,Author,Genre,Rating,Floor,Shelf,Issued
+234567,The Catcher in the Rye,J.D. Salinger,Coming-of-Age,4.2,1,8,0
+345678,1984,George Orwell,Dystopian,4.7,3,4,0
+456789,Fahrenheit 451,Ray Bradbury,Science Fiction,4.4,1,10,0
+567890,The Great Gatsby,F. Scott Fitzgerald,Fiction,4.6,2,6,0
+678901,The Silent Patient,Alex Michaelides,Thriller,4.4,3,7,0
+789012,Where the Crawdads Sing,Delia Owens,Mystery,4.8,1,14,0
+890123,The Nightingale,Kristin Hannah,Historical Fiction,4.5,2,2,0
+901234,The Alchemist,Paulo Coelho,Adventure,4.3,1,6,0
+123455,Pride and Prejudice,Jane Austen,Romance,4.7,2,15,0
+234566,The Midnight Library,Matt Haig,Fantasy,4.6,3,12,0
+345677,Eleanor Oliphant Is Completely Fine,Gail Honeyman,Contemporary Fiction,4.2,1,9,0
+456788,The Hobbit,J.R.R. Tolkien,Fantasy,4.9,2,8,0
+567899,Becoming,Michelle Obama,Non-Fiction,4.8,1,7,0
+678900,The Da Vinci Code,Dan Brown,Mystery,4.1,3,2,0
+789011,The Help,Kathryn Stockett,Historical Fiction,4.6,2,11,0
+890122,The Girl on the Train,Paula Hawkins,Thriller,4.0,1,2,0
+901233,Brave New World,Aldous Huxley,Dystopian,4.4,3,15,0
+123454,The Hunger Games,Suzanne Collins,Dystopian,4.5,1,1,0
+234565,Wuthering Heights,Emily Bronte,Classic,4.3,2,1,0
+345676,The Lord of the Rings,J.R.R. Tolkien,Fantasy,4.9,3,11,0
+456787,Ready Player One,Ernest Cline,Science Fiction,4.4,2,3,0
+567898,The Martian,Andy Weir,Science Fiction,4.5,1,15,0
+678909,Gone Girl,Gillian Flynn,Thriller,4.1,3,6,0
+789010,Little Fires Everywhere,Celeste Ng,Contemporary Fiction,4.2,2,5,0
+890121,The Testaments,Margaret Atwood,Dystopian,4.3,1,11,0
+901232,The Goldfinch,Donna Tartt,Fiction,4.0,3,5,0
+123453,All the Light We Cannot See,Anthony Doerr,Historical Fiction,4.7,2,10,0
+234564,A Promised Land,Barack Obama,Non-Fiction,4.8,1,4,0
+345675,The Road,Cormac McCarthy,Fiction,4.4,3,14,0
+456786,Born a Crime,Trevor Noah,Non-Fiction,4.6,1,12,0
+567897,Educated,Tara Westover,Memoir,4.7,2,16,0
+678908,Where the Forest Meets the Stars,Glendy Vanderah,Mystery,4.3,3,13,0
+789009,The Dutch House,Ann Patchett,Fiction,4.2,1,13,0
+890120,To Kill a Mockingbird,Harper Lee,Classic,4.5,2,14,0
+901231,The Lord of the Rings,J.R.R. Tolkien,Fantasy,4.9,3,3,0
+123452,Good Omens,Neil Gaiman & Terry Pratchett,Fantasy,4.5,1,3,0
+234563,The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,4.9,2,9,0
+345674,One Hundred Years of Solitude,Gabriel Garcia Marquez,Magical Realism,4.6,3,9,0
+456785,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,4.8,2,4,0
+567896,A Clockwork Orange,Anthony Burgess,Dystopian,4.3,1,10,0
+678907,The Secret History,Donna Tartt,Fiction,4.4,3,3,0
+789008,The Silmarillion,J.R.R. Tolkien,Fantasy,4.7,1,16,0
+890119,The Picture of Dorian Gray,Oscar Wilde,Classic,4.2,2,7,0
+901230,The Return of the King,J.R.R. Tolkien,Fantasy,4.9,3,1,0
+123451,The Martian,Andy Weir,Science Fiction,4.5,1,13,0
+234562,Fahrenheit 451,Ray Bradbury,Science Fiction,4.4,2,13,0
+345673,Harry Potter and the Chamber of Secrets,J.K. Rowling,Fantasy,4.8,3,15,0
+456784,Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,4.8,1,14,0
+678906,All the Light We Cannot See,Anthony Doerr,Historical Fiction,4.7,3,10,0
+789007,The Two Towers,J.R.R. Tolkien,Fantasy,4.9,1,5,0
+890118,Becoming,Michelle Obama,Non-Fiction,4.8,2,11,0
+123450,Where the Crawdads Sing,Delia Owens,Mystery,4.8,1,1,0
+
+
+
+123456,To Kill a Mockingbird,Harper Lee,Classic,4.5,2,12,0
+
+
+111111,HamzaBook,Hamza,action,4.3,3,12,0
+
+
+567895,The Underground Railroad,Colson Whitehead,Historical Fiction,4.2,2,16,0
